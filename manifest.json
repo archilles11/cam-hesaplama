@@ -1,0 +1,1 @@
+{"name": "Dekor Cam Hesaplay\u0131c\u0131", "short_name": "CamHesap", "start_url": "cam_hesaplama_v1_pwa.html", "display": "standalone", "background_color": "#ffffff", "theme_color": "#333333", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
